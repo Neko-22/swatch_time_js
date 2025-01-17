@@ -1,0 +1,26 @@
+{
+  "name": "swatch_time",
+  "version": "1.0.0",
+  "description": "a js library for converting ISO-8601 to swatch .beat time",
+  "keywords": [
+    "time"
+  ],
+  "homepage": "https://github.com/Neko-22/swatch_time_js#readme",
+  "bugs": {
+    "url": "https://github.com/Neko-22/swatch_time_js/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neko-22/swatch_time_js.git"
+  },
+  "license": "MPL-2.0",
+  "author": "Neko",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"n/a\""
+  },
+  "dependencies": {
+    "luxon": "^3.5.0"
+  }
+}
