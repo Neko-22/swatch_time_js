@@ -1,6 +1,6 @@
 const { DateTime } = require("luxon");
 
-function getBeatTime(iso_time_string, useAtSymbol = true, showDecimals= true, addDate = false){
+module.exports = function getBeatTime(iso_time_string, useAtSymbol = true, showDecimals= true, addDate = false){
     time = DateTime.fromISO(iso_time_string);
 /* so the way swatch time works is that it's beholden to the timezone in Biel, Switzerland
 this is because Swatch is a swiss company
