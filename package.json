@@ -1,6 +1,6 @@
 {
   "name": "swatch_time",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a js library for converting ISO-8601 to swatch .beat time",
   "keywords": [
     "time"
