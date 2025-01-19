@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/Neko-22/swatch_time_js.git"
   },
-  "license": "MPL-2.0",
+  "license": "AGPL-3.0-only",
   "author": "Neko",
   "type": "commonjs",
   "main": "index.js",
